@@ -1,0 +1,7 @@
+organization=chaunceywong
+projectKey=spring-cloud-es-demo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.113598
+dashboardUrl=https://sonarcloud.io/dashboard?id=spring-cloud-es-demo
+ceTaskId=AaFj7f6XIwa-p-N7O-EN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaFj7f6XIwa-p-N7O-EN
